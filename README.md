@@ -1,5 +1,5 @@
 # 💫 About Me:
-Front-End solutions and Develop Functional solution.<br>Fullstack projects React, Node, Next.js<br><br>Advanced JavaScript, TypeScript and ServerSide.<br>JavaScript, React.js, Next.js, Node.js, AWS, and software development.<br>Will update Soon
+🔭 I’m currently working on: <br>Front-End solutions and Develop Functional solution.<br><br>👯 I’m looking to collaborate on:<br>Fullstack projects React, Node, Next.js<br><br>🌱 I’m currently learning:<br>Advanced JavaScript, TypeScript and ServerSide.<br><br>💬 Ask me about:<br>JavaScript, React.js, Next.js, Node.js, AWS, and software development.
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@ Front-End solutions and Develop Functional solution.<br>Fullstack projects React
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Haideraly001&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Haideraly001&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Haideraly001&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Haideraly001&icon=0&color=0)](https://visitcount.itsvg.in)
