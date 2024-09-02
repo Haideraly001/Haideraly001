@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: <br>Full Stack Development solutions and implementing Functional architecture.<br><br>👯 I’m looking to collaborate on:<br>Fullstack projects React, Node, Next.js<br><br>🌱 I’m currently learning:<br>Advanced JavaScript, TypeScript and ServerSide.<br><br>💬 Ask me about:<br>JavaScript, React.js, Next.js, Node.js, AWS, and software development.
+🔭 I’m currently working on: <br>Full Stack Development solutions and Functional architecture.<br><br>👯 I’m looking to collaborate on:<br>Fullstack projects React, Node, Next.js<br><br>🌱 I’m currently learning:<br>Advanced JavaScript, TypeScript and ServerSide.<br><br>💬 Ask me about:<br>JavaScript, React.js, Next.js, Node.js, AWS, and software development.
 
 
 ## 🌐 Socials:
