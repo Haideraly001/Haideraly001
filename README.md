@@ -12,11 +12,11 @@
 
 ## My Skills
 
-<p align="center">
+<p align="start">
   <img src="https://camo.githubusercontent.com/251c424cc263c7f6821c8e14dc8995e827be929403cfbc03b6a3b295d8f87485/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6373732c6a732c74732c72656163742c6e6f64656a732c657870726573732c6e6573746a732c6e6578746a732c66697265626173652c6d6174657269616c75692c6d6f6e676f64622c76657263656c2c6d7973716c2c706f73746d616e2c7673636f6465267065726c696e653d3136" alt="My Skills"/>
 </p>
 
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/haider-aly001).
 
 
 
