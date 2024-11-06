@@ -29,7 +29,6 @@ You can connect with me on <a href="https://www.linkedin.com/in/haider-aly001">L
 <!-- ### 🔝 Top Contributed Repo -->
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=Haideraly001&limit=5&theme=gotham&combine_all_yearly_contributions=true)  -->
 
----
 [![](https://visitcount.itsvg.in/api?id=Haideraly001&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
